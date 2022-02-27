@@ -1,0 +1,103 @@
+@media screen  and ( max-width:768px){
+
+    main{
+        padding:  2px 3px ;
+        height:120vh;
+        width: 90vw;
+        background-color: #E4E4E4;
+        position: relative;
+        left: 1rem; 
+        top:1rem ;   
+        border-radius: 10px;
+    }
+
+
+
+    .box1{
+        height: 40vh;
+        width: 89vw;
+        background-color: white;
+        padding:1rem  1rem;
+        font-size: 0.5rem;
+        font-weight: 100;
+        border-radius:12px 12px 0 0;
+    
+    }
+    .box1 h1{
+        color:#89f5ea;
+        font-size: 2.1rem;
+        padding: 2rem 0;
+    
+        
+    }
+    .ca{
+        color: #e4fc5d;
+        font-size: 1.2rem;
+        padding-bottom: 1.3rem;
+        
+    }
+    p{
+        color:rgb(167, 162, 162);
+        font-family: 'Fira Sans', sans-serif;
+        font-size: 14px;
+        
+    }
+    .box2{
+       border-radius: 0;
+        height: 40vh;
+        width: 89vw;
+        background-color:#54AEAE;
+        float: left;
+        padding: 1.2rem 1rem;
+        font-size: 0.5rem;
+        color: white;
+        font-weight: 100;
+    }
+    .h{
+        font-size: 2rem;
+        color: rgb(255, 255, 255);
+        padding: 15px 0;
+    }
+    big{
+        font-size: 2.5rem;
+        color: white;
+         font-weight: 800;
+        
+    }
+    .p3{
+        color: rgb(255, 255, 255);
+        padding: 13px 0;
+        font-size: 1rem;
+    }
+    button{
+        width: 180px;
+        height: 40px;
+        font-size: 20px;
+        color: white;
+        background-color:#C3DA54;
+        border-radius: 6px;
+        border: none;
+        margin: 12px 50px;
+
+    }
+    .box3{
+        height: 40vh;
+        width: 89vw;
+        background-color:#69B9B6;
+        float: left;
+        padding:1rem 1rem;
+        font-size: 1.3rem;
+        font-weight: 100;
+        border-radius:0 0 12px 12px ;
+    }
+    
+    
+    .box3 h1{
+        color: rgb(255, 255, 255);
+        padding: 2.2rem 0;
+    }
+    .box3 p{
+        color: rgb(248, 247, 247);
+        font-family: 'Fira Sans', sans-serif;
+    }
+}
